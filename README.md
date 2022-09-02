@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl https://github.com/slol2/SpacePurpleTheme.git)
+bash <(curl https://raw.githubusercontent.com/slol2/SpacePurpleTheme/main/install.sh)
 ```
 
 Screenshots:
